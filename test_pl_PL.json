@@ -351,7 +351,7 @@
   "actionbox.unit.toomany": "(zbyt dużo)",
   "actionbox.unit.toomany.info": "To miasto nie utrzyma więcej jednostek. Ulepsz miasto, by móc stworzyć ich więcej.",
   "actionbox.building.doit": "ZRÓB TO!",
-  "actionbox.building.requiredtech": "Musisz odkryć {0}, aby to zrobić. Odkryj to w 'Drzewie Technologii'.",
+  "actionbox.building.requiredtech": "Musisz odkryć {0}, aby to zrobić. Odkryj to w Drzewie Technologii.",
   "actionbox.building.techtree": "DRZEWKO ROZWOJU",
   "actionbox.insufficientfunds": "Brakuje ci gwiazdek? Zakończ swoją turę, aby otrzymać ich więcej.",
   "actionbox.confirm": "Potwierdź {0}",
@@ -389,7 +389,7 @@
   "tooltip.unit.enemy.territory": "Ten wróg jest na Twoim terytorium!",
   "tooltip.unit.enemy.city": "Ten wróg zajmuje twoje miasto!",
   "tooltip.unit.grow.now": "Ewoluuje do jednostki {0} na końcu tej tury.",
-  "tooltip.unit.grow.later": "Ewoluuje do jednostki {0} w {1} tury"
+  "tooltip.unit.grow.later": "Ewoluuje do jednostki {0} w {1} tury",
   "tooltip.unit.decay.now": "Ta jednostka zniknie na koniec tej tury.",
   "tooltip.unit.decay.later": "Ta jednostka zniknie za {0} tur.",
   "tooltip.ability.disband": "Usuń dowolną swoją jednostkę a otrzymasz połowę jej wartości.",
@@ -399,7 +399,7 @@
   "tooltip.ability.dash": "Ta jednostka może atakować po ruchu jeśli przeciwnik jest w jej zasięgu.",
   "tooltip.ability.convert": "Ta jednostka może włączyć wrogą jednostkę do Twojego plemienia.",
   "tooltip.ability.escape": "Ta jednostka po swoim ataku może zaatakować ponownie.",
-  "tooltip.ability.persist": "Ta jednostka może atakować do momentu gdy nie zabije wszystkich swoich ofiar."
+  "tooltip.ability.persist": "Ta jednostka może atakować do momentu gdy nie zabije wszystkich swoich ofiar.",
   "tooltip.ability.swim": "Ta jednostka jest amfibią - może poruszać się po wodzie i lądzie.",
   "tooltip.ability.carry": "Ta jednostka przechowuje w sobie inną jednostkę.",
   "tooltip.ability.heal": "Ta jednostka może leczyć otaczające ją jednostki.",
