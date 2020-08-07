@@ -152,7 +152,7 @@
   "world.suggestion.title": "Wskazówka!",
   "world.suggestion.message": "Powinieneś {0}",
   "world.suggestion.disable": "((Możesz wyłączyć te wskazówki w menu)",
-  "world.ranks": "1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.",
+  "world.ranks": "1st,2nd,3rd,4th,5th,6th,7th,8th,9th,10th,11th,12th",
   "world.road.connected.title": "Nowy szlak handlowy!",
   "world.road.connected.message": "{0} jest teraz połączone z Twoją stolicą!",
   "world.tech.new.title": "Nowa Technologia!",
